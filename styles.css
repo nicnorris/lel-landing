@@ -15,7 +15,7 @@ body {
   height: 40px;
   margin-top: 20px;
   margin-right: 1em;
-  margin-bottom: 20px;
+  margin-bottom: 0em;
   margin-left: 1em;
 }
 
@@ -41,6 +41,6 @@ a:visited {
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
 @media screen and (max-width: 400px) {
   body {
-    font-size: 10px;
+    font-size: 5px;
   }
 }
